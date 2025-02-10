@@ -1,0 +1,31 @@
+/* scrollbar */
+@import "simplebar-react/dist/simplebar.min.css";
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700;800;900&display=swap");
+/* src/index.css */
+
+body,
+html {
+  font-family: "Poppins", sans-serif;
+  font-family: "Rubik", sans-serif;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+a,
+span,
+p,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Poppins", sans-serif;
+  text-decoration: none;
+  text-transform: none;
+  cursor: pointer;
+  opacity: 1;
+  transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg)
+    rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg);
+  transform-style: preserve-3d;
+}

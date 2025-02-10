@@ -6,7 +6,6 @@ const Product = () => {
         <div className='w-[200px] h-[200px] bg-red-500 '></div>
         <div className='w-[200px] h-[200px] bg-red-500 '></div>
         <div className='w-[200px] h-[200px] bg-red-500 '></div>
-        
         <div className='w-[200px] h-[200px] bg-red-500 '></div>
         <div className='w-[200px] h-[200px] bg-red-500 '></div>
         <div className='w-[200px] h-[200px] bg-red-500 '></div>
